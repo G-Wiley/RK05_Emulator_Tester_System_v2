@@ -5,4 +5,4 @@ The Diablo Adapter P Keystone v2 is an adapter between the DEC dual 40-pin flat 
 !(https://github.com/user-attachments/assets/b2ee38a8-db13-4d8d-8da1-1110b3b89db7)
 
 <p><b>This is the bottom side of the assembled Diablo terminator:</b></p>
-![Diablo Adapter P Keystone v2 bottom side](https://github.com/user-attachments/assets/c717c289-8f26-43ae-b35e-3a423952f884)
+!(https://github.com/user-attachments/assets/c717c289-8f26-43ae-b35e-3a423952f884)
