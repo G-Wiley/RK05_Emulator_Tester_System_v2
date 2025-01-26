@@ -9,6 +9,6 @@ The Diablo Adapters and Terminator are adapters between the DEC dual 40-pin flat
 
 ![Adapter and Terminator with cables routed](https://github.com/user-attachments/assets/5c44a9a5-63c5-4621-93d4-924ab4019a2c)
 
-<p><b></b>Diablo Adapter without terminator to show the thumb screw that fastens the adapter to the drive. There is sufficient space underneath the terminator board for the thumb screw.</b></p>
+<p><b>Diablo Adapter without terminator to show the thumb screw that fastens the adapter to the drive. There is sufficient space underneath the terminator board for the thumb screw.</b></p>
 
 ![view with thumbscrew](https://github.com/user-attachments/assets/75ce2202-6442-4499-9209-67881af037c1)
