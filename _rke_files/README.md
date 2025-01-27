@@ -10,4 +10,4 @@ For PDP-11 please use the RK05 Emulator RK11D Utility which is in the folder: RK
 
 The emulator reads rke files from memory cards inserted into the microSD socket. These files have an rke file extension which indicates that the file has the unique format intended for the RK05 emulator. An rke file has a file header followed by a binary image of the disk data in the controller-independent emulator data format. The header describes disk pack parameters that are independent of the disk controller on each type of computer. There is one exception to this rule; the bit rate used by the controller is a parameter in the header. Header parameters are values such as: number of number of cylinders, number of heads, number of sectors per track, microseconds per sector, and bit rate.<p>
 
-
+Controller-Independent Emulator Data Format.pdf - describes the structure of rke files and provides an example of an rke file for a PDP-8.
