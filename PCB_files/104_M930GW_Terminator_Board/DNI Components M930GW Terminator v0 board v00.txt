@@ -1,0 +1,10 @@
+M930GW Terminator v0, parts not added to BOM
+Schematic Page 1
+R56
+R36
+R38
+R75
+R81
+C1B
+PA
+PB

@@ -1,0 +1,55 @@
+RK05 Emulator v1, parts not added to BOM
+Schematic Page 1
+J1
+J28
+J29
+R5
+R9
+
+Schematic Page 2
+JA7
+JB7
+
+Schematic Page 3
+C7
+J3
+H1
+H2
+H3
+H4
+H5
+
+Schematic Page 4
+C35
+FPC1
+J2
+J4
+J5
+J6
+J7
+J8
+J9
+J10
+J11
+J12
+J13
+J14
+J15
+J17
+J18
+J19
+J20
+J21
+J24
+J25
+J27
+R13
+R22
+R25
+U21
+U22
+
+Schematic Page 5
+JA8
+JB8
+

@@ -1,0 +1,23 @@
+RK05 Emulator Front Panel Electronics v3, parts not added to BOM
+Schematic Page 1
+J1
+J2
+J3
+J4
+J5
+J6
+J7 (3-pin header, servo)
+J9
+J10
+J11
+J12
+J13
+J14
+J15
+J16
+J17 (16-pin header, main board)
+H1 to H15
+R6
+R18
+SW2
+U3 (display module)
